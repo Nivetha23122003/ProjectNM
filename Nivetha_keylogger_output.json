@@ -1,0 +1,250 @@
+[
+    {
+        "event": "pressed",
+        "key": "'n'"
+    },
+    {
+        "event": "released",
+        "key": "'n'"
+    },
+    {
+        "event": "pressed",
+        "key": "'i'"
+    },
+    {
+        "event": "released",
+        "key": "'i'"
+    },
+    {
+        "event": "pressed",
+        "key": "'v'"
+    },
+    {
+        "event": "released",
+        "key": "'v'"
+    },
+    {
+        "event": "pressed",
+        "key": "'e'"
+    },
+    {
+        "event": "released",
+        "key": "'e'"
+    },
+    {
+        "event": "pressed",
+        "key": "'t'"
+    },
+    {
+        "event": "released",
+        "key": "'t'"
+    },
+    {
+        "event": "pressed",
+        "key": "'h'"
+    },
+    {
+        "event": "released",
+        "key": "'h'"
+    },
+    {
+        "event": "pressed",
+        "key": "'a'"
+    },
+    {
+        "event": "released",
+        "key": "'a'"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.space"
+    },
+    {
+        "event": "released",
+        "key": "Key.space"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "'V'"
+    },
+    {
+        "event": "released",
+        "key": "'V'"
+    },
+    {
+        "event": "released",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.space"
+    },
+    {
+        "event": "released",
+        "key": "Key.space"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "'B'"
+    },
+    {
+        "event": "released",
+        "key": "'B'"
+    },
+    {
+        "event": "pressed",
+        "key": "'E'"
+    },
+    {
+        "event": "released",
+        "key": "'E'"
+    },
+    {
+        "event": "released",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.space"
+    },
+    {
+        "event": "released",
+        "key": "Key.space"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "'C'"
+    },
+    {
+        "event": "released",
+        "key": "'C'"
+    },
+    {
+        "event": "pressed",
+        "key": "'S'"
+    },
+    {
+        "event": "released",
+        "key": "'S'"
+    },
+    {
+        "event": "pressed",
+        "key": "'E'"
+    },
+    {
+        "event": "released",
+        "key": "'E'"
+    },
+    {
+        "event": "released",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.space"
+    },
+    {
+        "event": "released",
+        "key": "Key.space"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "pressed",
+        "key": "Key.shift"
+    },
+    {
+        "event": "released",
+        "key": "Key.shift"
+    }
+]
